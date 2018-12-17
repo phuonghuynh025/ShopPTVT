@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
 
     SanPhamFlashSaleAdapter sanPhamFlashSaleAdapter;
     public static ArrayList<Giohang>manggiohang;
+    //project
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
